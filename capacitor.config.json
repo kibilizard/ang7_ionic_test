@@ -1,0 +1,7 @@
+{
+  "appId": "kibilizard.ang7ionic.test",
+  "appName": "ang7-ionic-test",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
